@@ -19,7 +19,6 @@ int main(void){
 	int numeroUno;
 	int numeroDos;
 
-
 	int resultadoSuma;
 	int resultadoResta;
 	float resultadoDivision;
